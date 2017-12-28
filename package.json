@@ -1,6 +1,6 @@
 {
   "name": "ansi-styles-template",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Use ANSI styles in template notation",
   "main": "index.js",
   "scripts": {
