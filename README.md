@@ -1,6 +1,7 @@
 # ansi-styles-template
 
 [![npm version](https://badge.fury.io/js/ansi-styles-template.svg)](https://badge.fury.io/js/ansi-styles-template)
+[![Build Status](https://travis-ci.org/kjirou/ansi-styles-template.svg?branch=master)](https://travis-ci.org/kjirou/ansi-styles-template)
 
 Use ANSI styles in template notation
 
